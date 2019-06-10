@@ -6,8 +6,8 @@ function xml2Json(xml){
     
     var obj = {};
     
-    if(xml.nodeType==1){ //element
-        //do attribute
+    if(xml.nodeType==1){ //ele
+        //attribute
         if(xml.attributes.length>0){
             obj["@attributes"]={};
                 
