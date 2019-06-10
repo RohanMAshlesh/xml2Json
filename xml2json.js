@@ -1,6 +1,6 @@
 // This Program Changes an XML file to Json
 
-function xmlToJson(xml){
+function xml2Json(xml){
     
     //Creating the returning object
     
