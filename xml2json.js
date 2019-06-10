@@ -1,4 +1,5 @@
-/ This Program Changes an XML file to Json
+/
+// This Program Changes an XML file to Json
 
 function xmlToJson(xml){
     
